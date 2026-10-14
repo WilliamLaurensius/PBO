@@ -1,2 +1,0 @@
-Class.Student
-Class.Main
